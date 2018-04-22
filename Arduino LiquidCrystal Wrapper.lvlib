@@ -5,22 +5,22 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Advanced Tests" Type="Folder">
-		<Item Name="Simple writing on screen.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Advanced Tests/Simple writing on screen.vi"/>
-		<Item Name="Writing on screen.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Advanced Tests/Writing on screen.vi"/>
+		<Item Name="Simple writing on screen.vi" Type="VI" URL="../Advanced Tests/Simple writing on screen.vi"/>
+		<Item Name="Writing on screen.vi" Type="VI" URL="../Advanced Tests/Writing on screen.vi"/>
 	</Item>
 	<Item Name="Basic Functions" Type="Folder">
-		<Item Name="Begin LCD.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Begin LCD.vi"/>
-		<Item Name="Clear LCD.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Clear LCD.vi"/>
-		<Item Name="Create LCD.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Create LCD.vi"/>
-		<Item Name="Print LCD.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Print LCD.vi"/>
-		<Item Name="SetCursor LCD.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/SetCursor LCD.vi"/>
+		<Item Name="Begin LCD.vi" Type="VI" URL="../Begin LCD.vi"/>
+		<Item Name="Clear LCD.vi" Type="VI" URL="../Clear LCD.vi"/>
+		<Item Name="Create LCD.vi" Type="VI" URL="../Create LCD.vi"/>
+		<Item Name="Print LCD.vi" Type="VI" URL="../Print LCD.vi"/>
+		<Item Name="SetCursor LCD.vi" Type="VI" URL="../SetCursor LCD.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
-		<Item Name="Test Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Test/Test Begin.vi"/>
-		<Item Name="Test Clear.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Test/Test Clear.vi"/>
-		<Item Name="Test Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Test/Test Create.vi"/>
-		<Item Name="Test Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Test/Test Print.vi"/>
-		<Item Name="Test SetCursor.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Test/Test SetCursor.vi"/>
+		<Item Name="Test Begin.vi" Type="VI" URL="../Test/Test Begin.vi"/>
+		<Item Name="Test Clear.vi" Type="VI" URL="../Test/Test Clear.vi"/>
+		<Item Name="Test Create.vi" Type="VI" URL="../Test/Test Create.vi"/>
+		<Item Name="Test Print.vi" Type="VI" URL="../Test/Test Print.vi"/>
+		<Item Name="Test SetCursor.vi" Type="VI" URL="../Test/Test SetCursor.vi"/>
 	</Item>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino LiquidCrystal Wrapper/Translator.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
